@@ -6,12 +6,17 @@ Run this to setup a new ubuntu (or ubuntu based distro). It installs Flatpak and
 
 
 # Install git and curl
-
+Note: you don't actually need git. But should probably do the rest.
 ```sh
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get -y install git
 $ sudo apt-get -y install curl
 ```
+# Run
+To setup simply enter run this below command in terminal.
+```sh
+$ sudo curl -s  https://raw.githubusercontent.com/Rotunda6209/ubuntu-setup/main/test.sh | /bin/bash
+````
 
 
