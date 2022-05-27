@@ -2,7 +2,7 @@
 Run this to setup a new ubuntu (or ubuntu based distro). It installs Flatpak and downloads my key programs using it.
 
 
-# Install git and curl
+##Install git and curl
 
 $sudo apt-get update
 $sudo apt-get upgrade
