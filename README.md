@@ -5,10 +5,10 @@ Run this to setup a new ubuntu (or ubuntu based distro). It installs Flatpak and
 # Install git and curl
 
 ```sh
-$sudo apt-get update
-$sudo apt-get upgrade
-$sudo apt-get -y install git
-$sudo apt-get -y install curl
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get -y install git
+$ sudo apt-get -y install curl
 ```
 
 
