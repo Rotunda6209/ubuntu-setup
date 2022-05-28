@@ -7,7 +7,12 @@ sudo apt update
 sudo apt upgrade
 
 #install flatpak as per flatpak's intstructions
-sudo apt install flatpak -y
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+#sudo apt install flatpak -y
+#flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
-# 
+
+#easy snaps: bitwarden, spotify
+sudo snap install bitwarden
+sudo snap install spotify
+
+ 
